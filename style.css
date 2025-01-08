@@ -1,0 +1,493 @@
+.alma-pk,
+.alma-pk * {
+  box-sizing: border-box;
+}
+.alma-pk {
+  background: #ffdd55;
+  height: 4430px;
+  position: relative;
+  overflow-y: auto;
+}
+.avatar {
+  position: absolute;
+  inset: 0;
+}
+.frame-137 {
+  width: 500px;
+  height: 625px;
+  position: absolute;
+  left: 711px;
+  top: 200px;
+}
+.rectangle-39359 {
+  background: #000000;
+  border-radius: 10px;
+  width: 500px;
+  height: 625px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 9px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.alma-1 {
+  width: 500px;
+  height: 629px;
+  position: absolute;
+  left: 684px;
+  top: 175px;
+  object-fit: cover;
+}
+.hello {
+  color: #18191f;
+  text-align: center;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 96px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 39px;
+  top: 334px;
+  width: 318px;
+}
+.i-m-alma {
+  color: #18191f;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 96px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 53px;
+  top: 427px;
+  width: 455px;
+}
+.liaison-officer {
+  color: #474a57;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 53px;
+  top: 524px;
+}
+.copywriter {
+  color: #474a57;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 320px;
+  top: 524px;
+  width: 288px;
+  height: 36px;
+}
+.frame-128 {
+  background: #1a1a1a;
+  border-radius: 20px;
+  width: 1250px;
+  height: 672px;
+  position: absolute;
+  left: 53px;
+  top: 1006px;
+  overflow: hidden;
+}
+.about-me-text {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 64px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 485px;
+  top: 99px;
+}
+.skills {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 485px;
+  top: 168px;
+}
+.liaison-officer2 {
+  color: #ffdd55;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 28px;
+  font-weight: 700;
+  position: relative;
+}
+.copywriter2 {
+  color: #ffdd55;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 28px;
+  font-weight: 700;
+  position: relative;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 504px;
+  height: 317px;
+  position: absolute;
+  left: 485px;
+  top: 265px;
+}
+.hello-i-help-connect-people-and-create-powerful-messages-as-a-liaison-officer-and-copywriter-i-focus-on-building-good-relationships-while-creating-engaging-and-relatable-content-i-have-considerable-experience-one-of-my-experiences-is-being-a-liaison-officer-at-the-r-20-event-one-of-the-events-in-the-g-20-conference-in-yogyakarta {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  height: 305px;
+}
+.download-cv-button {
+  width: 278px;
+  height: 69px;
+  position: absolute;
+  left: 485px;
+  top: 482px;
+}
+.alma-12 {
+  width: 392px;
+  height: 530px;
+  position: absolute;
+  left: 56px;
+  top: 69px;
+  object-fit: cover;
+}
+.frame-129 {
+  background: #f8d9cb;
+  width: 1368px;
+  height: 1006px;
+  position: absolute;
+  left: 0px;
+  top: 1854px;
+  overflow: hidden;
+}
+.skill-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-39363 {
+  background: #000000;
+  border-radius: 20px;
+  width: 434px;
+  height: 572px;
+  position: absolute;
+  left: 169px;
+  top: 324px;
+}
+.frame-130 {
+  background: #f3d338;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 434px;
+  height: 572px;
+  position: absolute;
+  left: 158px;
+  top: 312px;
+  overflow: hidden;
+}
+.ui-ux-designer {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 53px;
+  top: 87px;
+}
+.description2 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 353px;
+  position: absolute;
+  left: 53px;
+  top: 50%;
+  translate: 0 -50%;
+}
+.as-a-liaison-officer-i-connect-various-parties-with-effective-communication-organized-coordination-and-strategic-solutions-with-strong-interpersonal-skills-and-high-adaptability-i-ensure-every-collaboration-process-runs-smoothly-efficiently-and-produces-satisfactory-results-for-all-parties {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  height: 322px;
+}
+.ellipse-1052 {
+  background: var(--colors-mint, #00c7be);
+  border-radius: 50%;
+  width: 132px;
+  height: 132px;
+  position: absolute;
+  left: 309px;
+  top: 246px;
+}
+._1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 96px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 355px;
+  top: 292px;
+}
+.skill-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-393632 {
+  background: #000000;
+  border-radius: 20px;
+  width: 434px;
+  height: 572px;
+  position: absolute;
+  left: 770px;
+  top: 324px;
+}
+.frame-1302 {
+  background: #f3d338;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 434px;
+  height: 572px;
+  position: absolute;
+  left: 759px;
+  top: 312px;
+  overflow: hidden;
+}
+.ui-ux-designer2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: calc(50% - 119px);
+  top: 81px;
+}
+.description3 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 353px;
+  position: absolute;
+  left: 40px;
+  top: 50%;
+  translate: 0 -50%;
+}
+.as-a-copywriter-i-create-words-that-not-only-grab-attention-but-also-stir-emotions-and-drive-action-every-word-i-write-is-designed-to-tell-a-powerful-story-build-relationships-with-audiences-and-effectively-achieve-business-goals {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  height: 296px;
+}
+.ellipse-10522 {
+  background: var(--colors-mint, #00c7be);
+  border-radius: 50%;
+  width: 132px;
+  height: 132px;
+  position: absolute;
+  left: 910px;
+  top: 246px;
+}
+._2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 96px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 947px;
+  top: 292px;
+}
+.services {
+  color: var(--backgrounds-primary, #ffffff);
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 64px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 541px;
+  top: 69px;
+}
+.services-description {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 169px;
+  top: 144px;
+}
+.i-am-ready-to-start-the-journey-with-you-by-helping-to-effectively-connect-all-parties-and-convey-ideas-through-compelling-words-let-s-work-together-to-create-great-relationships-deliver-memorable-messages-and-deliver-tangible-results {
+  color: var(--labels-primary, #000000);
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 700;
+  position: relative;
+  width: 1093px;
+}
+.frame-132 {
+  background: var(--colors-mint, #00c7be);
+  width: 1368px;
+  height: 548px;
+  position: absolute;
+  left: 0px;
+  top: 3046px;
+  overflow: hidden;
+}
+.contact-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 42px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 136px;
+  top: 147px;
+}
+.component-10 {
+  background: #f8d9cb;
+  border-radius: 47px;
+  width: 689px;
+  height: 142px;
+  position: absolute;
+  left: 346px;
+  top: 274px;
+  box-shadow: -25px 33px 4.2px 0px rgba(0, 0, 0, 1);
+  overflow: hidden;
+}
+.contact-me2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 149px;
+  top: 54px;
+}
+.frame-136 {
+  width: 1368px;
+  height: 836px;
+  position: absolute;
+  left: 0px;
+  top: 3594px;
+  overflow: hidden;
+}
+.footer {
+  width: 1338px;
+  height: 577px;
+  position: absolute;
+  left: 15px;
+  top: 129px;
+}
+.keisya-alma-khairunnisa {
+  color: #18191f;
+  text-align: left;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 48px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 22px;
+}
+.fotter-description {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 639px;
+  height: 115px;
+  position: absolute;
+  left: 379px;
+  top: 50%;
+  translate: 0 -50%;
+}
+.i-make-as-soon-as-possible-you-really-like-my-work-contact-me-and-let-s-work-together {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 42px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 76.5px);
+  width: 852px;
+  height: 115px;
+}
+.policy-copy-right {
+  position: absolute;
+  inset: 0;
+}
+._2025-tugas-akhir-pengembangan-kepribadian {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 368px;
+  top: 477px;
+}
+.rectangle-39360 {
+  background: #000000;
+  border-radius: 0px 0px 35.6px 35.6px;
+  width: 1368px;
+  height: 113px;
+  position: sticky;
+  left: 0px;
+  top: -2px;
+}
